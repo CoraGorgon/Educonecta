@@ -3,10 +3,10 @@
 Prototipo front-end académico realizado con HTML5 y CSS3. No utiliza backend.
 
 ## Integrantes y roles
-- Integrante 1: ____________________ - Coordinación / repositorio
-- Integrante 2: ____________________ - Diseño UX/UI
-- Integrante 3: ____________________ - Front-End
-- Integrante 4: ____________________ - Front-End
+Integrante 1: Angel Saul Ortiz Aguilar - Coordinación / repositorio
+Integrante 2: Kevin Alexis Cardona Reyes - Diseño UX/UI
+Integrante 3: Kevin Emmanuel Navarro Negrete - Front-End
+Integrante 4: Sherlyn Josefina Quiroz Gaonaa - Front-End
 
 ## Tecnologías
 - HTML5
@@ -40,3 +40,8 @@ Inicio -> Login / Registro -> Panel -> Vacantes
 
 ## Uso de IA
 Se utilizó un asistente de IA como apoyo para organizar el prototipo, generar una base de código y documentar la actividad. El equipo debe revisar y poder explicar el código entregado.
+
+
+## Imágenes
+- `imagenes/logo.png`: logo mostrado dentro del sitio.
+- `imagenes/icono.png`: icono de la pestaña del navegador (favicon).

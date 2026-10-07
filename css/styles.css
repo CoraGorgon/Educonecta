@@ -42,10 +42,15 @@ a {
 }
 
 .marca {
-    font-size: 22px;
-    font-weight: bold;
+    display: inline-flex;
+    align-items: center;
     text-decoration: none;
-    color: var(--azul-oscuro);
+}
+
+.marca img {
+    width: 150px;
+    height: 58px;
+    object-fit: contain;
 }
 
 .barra-superior nav {
@@ -71,17 +76,19 @@ a {
     padding: 24px 16px;
 }
 
-.logo-simple {
-    width: 56px;
-    height: 56px;
-    border-radius: 12px;
-    display: grid;
-    place-items: center;
+.logo-lateral {
+    display: block;
     background: var(--blanco);
-    color: var(--azul-oscuro);
-    font-weight: bold;
-    font-size: 20px;
+    border-radius: 10px;
+    padding: 6px;
     margin-bottom: 24px;
+}
+
+.logo-lateral img {
+    display: block;
+    width: 100%;
+    height: 90px;
+    object-fit: contain;
 }
 
 .menu-titulo {
@@ -201,20 +208,22 @@ button {
     font-size: 13px;
 }
 
-.tarjeta-dato {
-    min-height: 150px;
+.hero-logo {
+    min-height: 180px;
     border-radius: var(--radio);
-    background: var(--azul-claro);
+    background: var(--blanco);
+    border: 1px solid var(--borde);
     display: flex;
-    flex-direction: column;
-    justify-content: center;
     align-items: center;
-    text-align: center;
+    justify-content: center;
+    padding: 14px;
 }
 
-.tarjeta-dato strong {
-    font-size: 44px;
-    color: var(--azul-oscuro);
+.hero-logo img {
+    display: block;
+    width: 100%;
+    max-height: 170px;
+    object-fit: contain;
 }
 
 .formulario {
@@ -339,7 +348,7 @@ footer {
         padding: 10px 14px;
     }
 
-    .logo-simple,
+    .logo-lateral,
     .menu-titulo {
         display: none;
     }
