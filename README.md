@@ -3,10 +3,10 @@
 Prototipo front-end académico realizado con HTML5 y CSS3. No utiliza backend.
 
 ## Integrantes y roles
-Integrante 1: Angel Saul Ortiz Aguilar - Coordinación / repositorio
-Integrante 2: Kevin Alexis Cardona Reyes - Diseño UX/UI
-Integrante 3: Kevin Emmanuel Navarro Negrete - Front-End
-Integrante 4: Sherlyn Josefina Quiroz Gaonaa - Front-End
+- Integrante 1: Angel Saul Ortiz Aguilar - Coordinación / repositorio
+- Integrante 2: Kevin Alexis Cardona Reyes - Diseño UX/UI
+- Integrante 3: Kevin Emmanuel Navarro Negrete - Front-End
+- Integrante 4: Sherlyn Josefina Quiroz Gaonaa - Front-End
 
 ## Tecnologías
 - HTML5
